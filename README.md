@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm K Durga Prasad 
+# 💫 Hi 👋, I'm MD SAIRIN SAIDAT
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&font=Press+Start+2P&color=4C3BCF&center=true&vCenter=true&width=500&lines=Web+Developer;AI+Enthusiast;Open+Source+Lover" alt="Typing Animation" />
 </div>
